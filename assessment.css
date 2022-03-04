@@ -1,0 +1,27 @@
+body{
+    background-color: #04a6ed;
+    color: #fdffff;
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+/*
+auto=オート
+color=文字色設定
+background-color=背景色
+width=横幅
+margin=境界線の外側の余白
+*/
+button{
+    padding: 5px 20px;
+    background-color: #337ad7;
+    border-style: none;
+    color: #fdffff;
+}
+/*
+padding=境界線の内側の余白
+boder-style=境界線のスタイル
+*/
+input{
+    height: 24px;
+}
